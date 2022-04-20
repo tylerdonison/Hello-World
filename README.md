@@ -15,7 +15,6 @@ This program is to demonstrate the ability to use Visual Studio in tandem with G
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Markdown Language Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 * [Youtube Upload Videos Support Page](https://support.google.com/youtube/answer/57407)
 * [Git](https://git-scm.com/download)
