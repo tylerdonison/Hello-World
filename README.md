@@ -4,7 +4,7 @@ The program itself is a simple "Hello World" program.
 
 This program is to demonstrate the ability to use Visual Studio in tandem with Git and Github. It is to test if a successful connection can be made between the three software.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1RAgzK_1viw)
 
 # Development Environment
 
